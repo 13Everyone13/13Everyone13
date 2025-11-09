@@ -31,14 +31,14 @@
 
 <h2>Тестовые артефакты:</h2>
 <ul>
-  <li><a href="https://github.com/13Everyone13/Theory">Теория тестирования</a> - определение методов, типов, уровней тестирования. Анализ макета</li>
-  <li><a href="https://github.com/13Everyone13/design">Тест-дизайн</a> - применение техник тест-дизайна</li>
-  <li><a href="https://github.com/13Everyone13/docs">Документация</a> - создание чек-листа, тест-кейсов, отчетов о дефекте</li>
-  <li><a href="https://github.com/13Everyone13/web">Тестирование веб-приложений</a> - тест-план, чек-лист, тест-кейсы, тестовый прогон, отчеты о дефекте, перехват трафика</li>
+  <li><a href="https://github.com/13Everyone13/Theory">Теория тестирования</a> - Определение методов, типов, уровней тестирования. Анализ макета веб-приложения</li>
+  <li><a href="https://github.com/13Everyone13/design">Тест-дизайн</a> - Применение техник тест-дизайна</li>
+  <li><a href="https://github.com/13Everyone13/docs">Документация</a> - Создание чек-листа, тест-кейсов, отчетов о дефекте</li>
+  <li><a href="https://github.com/13Everyone13/web">Тестирование веб-приложений</a> - Тест-план, чек-лист, тестовые наборы, тестовый прогон, отчеты о дефекте, перехват трафика</li>
   <li><a href="https://github.com/13Everyone13/api">Тестирование API</a> - REST и SOAP с помощью Postman</li>
-  <li><a href="https://github.com/13Everyone13/database">Работа с базами данных</a> - запросы и упражнения с MySQL и MongoDB</li>
-  <li><a href="https://github.com/13Everyone13/mobile">Тестирование приложений Android</a> - чек-лист, тест-кейсы, отчеты о дефекте, отчет о тестировании, перехват трафика</li>
-  <li><a href="https://github.com/13Everyone13/git_bash">Работа с Bash</a> - отправка базовых команд в Bash</li>
+  <li><a href="https://github.com/13Everyone13/database">Работа с базами данных</a> - Запросы и упражнения с MySQL и NoSQL</li>
+  <li><a href="https://github.com/13Everyone13/mobile">Тестирование приложений Android</a> - Чек-лист, тестовые наборы, отчеты о дефекте, отчет о тестировании, перехват трафика</li>
+  <li><a href="https://github.com/13Everyone13/git_bash">Работа с Bash</a> - Отправка базовых команд в Bash</li>
 </ul>
 
 
